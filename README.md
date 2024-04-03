@@ -1,6 +1,6 @@
 # lab_7
 
-A new Flutter project.
+In order to run the app with Bottom Tab Navigation, rename the file `mainWithBottomNav.dart` to `main.dart` and change the name of the other file to something else as there can be only one `main.dart` file to avoid any problems. Then run the project with command `flutter run`. But before running the project, dont forget to fetch dependencies and assets using `flutter pub get`.
 
 ## Getting Started
 
